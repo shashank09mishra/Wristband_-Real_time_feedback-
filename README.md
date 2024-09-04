@@ -2,6 +2,7 @@
  For a classroom it sents emergency if any students is emotionally unfit
  (wokwi simulator setup )
 ![WhatsApp Image 2024-09-02 at 22 40 12_624ffce7](https://github.com/user-attachments/assets/0c8ff85f-752c-4123-a1e4-7106cc283b4f)
+
 (How to Use)
 Set Up the Circuit: Follow the circuit setup instructions in the Wokwi simulator to connect the components.
 Upload the Code: Copy the provided Arduino code into the Wokwi code editor and start the simulation.
